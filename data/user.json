@@ -1,9 +1,0 @@
-[
-    {
-        "id":1,
-        "email":"hello@world.com",
-        "myCart":[],
-        "myOrders":[],
-        "address":[]
-    }
-]

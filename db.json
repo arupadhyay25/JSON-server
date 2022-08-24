@@ -1,0 +1,744 @@
+{
+    "carouselBottomBB":[
+        {
+          "id": 1,
+          "name": "Bakery Cake & Dairy",
+          "image": "https://www.bigbasket.com/media/uploads/banner_images/hp_bcd_m_bcd_250722_400.jpg"
+        },
+        {
+          "id": 2,
+          "name": "Health & Nutrition",
+          "image": "https://www.bigbasket.com/media/uploads/banner_images/hp_m_health_suppliment_250722_400.jpg"
+        },
+        {
+          "id": 3,
+          "name": "Baby Products",
+          "image": "https://www.bigbasket.com/media/uploads/banner_images/hp_m_babycare_250722_400.jpg"
+        },
+        {
+          "id": 4,
+          "name": "Pet Store",
+          "image": "https://www.bigbasket.com/media/uploads/banner_images/hp_m_petstore_250722_400.jpg"
+        }
+      ],
+      "carouelTopBB":[
+        {
+            "id":1,
+            "image":"https://www.bigbasket.com/media/uploads/banner_images/YXHP144_hp_fom_m_bbpl-staples_460_220822_Bangalore.jpg",
+            "t1":"Offer on",
+            "t2":"Staples"
+        },
+        {
+            "id":2,
+            "image":"https://www.bigbasket.com/media/uploads/banner_images/fresho-days-fnv-Bangalore-1600x460-23rdAUG22.jpeg",
+            "t1":"Fresho",
+            "t2":"Days"
+        },
+        {
+            "id":3,
+            "image":"https://www.bigbasket.com/media/uploads/banner_images/hp_m_Dry_FishBanner_1600x460_100822.jpg",
+            "t1":"Fresho",
+            "t2":"Meat"
+        },
+        {
+            "id":4,
+            "image":"https://www.bigbasket.com/media/uploads/banner_images/hp_m_cmc_pantry-non-food_460px-250722.jpg",
+            "t1":"Pantry",
+            "t2":"Essentials"
+        },
+        {
+            "id":5,
+            "image":"https://www.bigbasket.com/media/uploads/banner_images/hp_m_kgp_bbhome-exclusive_460-250722.jpg",
+            "t1":"BB",
+            "t2":"Home"
+        },
+        {
+            "id":6,
+            "image":"https://www.bigbasket.com/media/uploads/banner_images/hp_m_gwf_happychef_460-250722.jpg",
+            "t1":"Happy",
+            "t2":"Chef"
+        },
+        {
+            "id":7,
+            "image":"https://www.bigbasket.com/media/uploads/banner_images/hp_m_bcd_paneer_460-250722.jpg",
+            "t1":"Paneer",
+            "t2":"Store"
+        },
+        {
+            "id":8,
+            "image":"https://www.bigbasket.com/media/uploads/banner_images/hp_m_sbf_tasties-origin_460-250722.jpg",
+            "t1":"Tasties",
+            "t2":"Origin"
+        }
+    ],
+    "offers":{
+        "Bank-Offers": [
+          {
+            "id": 1,
+            "name": "paytm",
+            "image": "https://www.bigbasket.com/media/customPage/b01eee88-e6bc-410e-993c-dedd012cf04b/00100e4e-7dc9-4ad0-888a-b630f0e6597b/9b0da17e-0131-4d5b-a7d8-bbabe29e98b0/t1_hp_aff_m_paytm_360_11082022.jpg"
+          },
+          {
+            "id": 2,
+            "name": "RBL Bank",
+            "image": "https://www.bigbasket.com/media/customPage/b01eee88-e6bc-410e-993c-dedd012cf04b/00100e4e-7dc9-4ad0-888a-b630f0e6597b/9b0da17e-0131-4d5b-a7d8-bbabe29e98b0/t1_hp_aff_m_rbl_360_110822.jpg"
+          },
+          {
+            "id": 3,
+            "name": "Indusland Bank",
+            "image": "https://www.bigbasket.com/media/customPage/b01eee88-e6bc-410e-993c-dedd012cf04b/00100e4e-7dc9-4ad0-888a-b630f0e6597b/9b0da17e-0131-4d5b-a7d8-bbabe29e98b0/t1_hp_aff_m_indus_360_110822.jpg"
+          },
+          {
+            "id": 4,
+            "name": "digibank by DBS",
+            "image": "https://www.bigbasket.com/media/customPage/b01eee88-e6bc-410e-993c-dedd012cf04b/00100e4e-7dc9-4ad0-888a-b630f0e6597b/9b0da17e-0131-4d5b-a7d8-bbabe29e98b0/t1_hp_m_aff_dbs_360_110822.jpg"
+          }
+        ],
+        "Top-Offers": [
+          {
+            "id": 1,
+            "image": "https://www.bigbasket.com/media/customPage/b01eee88-e6bc-410e-993c-dedd012cf04b/00100e4e-7dc9-4ad0-888a-b630f0e6597b/4270bf1c-89f8-4fd4-9ac9-28fb1ba828ee/hp_deal-of-the-week-topoffersStorefront_m_480_250722_01.jpg"
+          },
+          {
+            "id": 2,
+            "image": "https://www.bigbasket.com/media/customPage/b01eee88-e6bc-410e-993c-dedd012cf04b/00100e4e-7dc9-4ad0-888a-b630f0e6597b/4270bf1c-89f8-4fd4-9ac9-28fb1ba828ee/hp_big-pack-topoffersStorefront_m_480_250722_02.jpg"
+          },
+          {
+            "id": 3,
+            "image": "https://www.bigbasket.com/media/customPage/b01eee88-e6bc-410e-993c-dedd012cf04b/00100e4e-7dc9-4ad0-888a-b630f0e6597b/4270bf1c-89f8-4fd4-9ac9-28fb1ba828ee/hp_combos-topoffersStorefront_m_480_250722_03.jpg"
+          },
+          {
+            "id": 4,
+            "image": "https://www.bigbasket.com/media/customPage/b01eee88-e6bc-410e-993c-dedd012cf04b/00100e4e-7dc9-4ad0-888a-b630f0e6597b/4270bf1c-89f8-4fd4-9ac9-28fb1ba828ee/hp_the-30-cor-topoffersStorefront_m_480_250722_04.jpg"
+          }
+        ]
+      },
+      "storeProducts":{
+        "Most-Popular":[
+            {
+                "id":1,
+                "image":"https://www.bigbasket.com/media/customPage/b01eee88-e6bc-410e-993c-dedd012cf04b/00100e4e-7dc9-4ad0-888a-b630f0e6597b/d9285f0a-e4df-419b-86fc-799f6f371627/hp_kajal-mostpopularStorefront_m_480_250722_01.jpg"
+            },
+            {
+                "id":2,
+                "image":"https://www.bigbasket.com/media/customPage/b01eee88-e6bc-410e-993c-dedd012cf04b/00100e4e-7dc9-4ad0-888a-b630f0e6597b/d9285f0a-e4df-419b-86fc-799f6f371627/hp_monsoon-bev-mostpopularStorefront_m_480_250722_02.jpg"
+            },
+            {
+                "id":3,
+                "image":"https://www.bigbasket.com/media/customPage/b01eee88-e6bc-410e-993c-dedd012cf04b/00100e4e-7dc9-4ad0-888a-b630f0e6597b/d9285f0a-e4df-419b-86fc-799f6f371627/hp_vegan-mostpopularStorefront_m_480_250722_03.jpg"
+            },
+            {
+                "id":4,
+                "image":"https://www.bigbasket.com/media/customPage/b01eee88-e6bc-410e-993c-dedd012cf04b/00100e4e-7dc9-4ad0-888a-b630f0e6597b/d9285f0a-e4df-419b-86fc-799f6f371627/hp_rakhi-mostpopularStorefront_m_480_250722_04.jpg"
+            }
+        ],
+        "Fruits&Vegetables":[
+            {
+                "id":1,
+                "name":"Organic Fruits & Vegetables",
+                "image":"https://www.bigbasket.com/media/customPage/b01eee88-e6bc-410e-993c-dedd012cf04b/00100e4e-7dc9-4ad0-888a-b630f0e6597b/c7186cf2-b290-48be-8e03-77d429cc6568/hp_organic-fruits-fnvStorefront_m_250722_560x378_01.jpg"
+            },
+            {
+                "id":2,
+                "name":"Fresh Fruits",
+                "image":"https://www.bigbasket.com/media/customPage/b01eee88-e6bc-410e-993c-dedd012cf04b/00100e4e-7dc9-4ad0-888a-b630f0e6597b/c7186cf2-b290-48be-8e03-77d429cc6568/hp_fresh-fruits-fnvStorefront_m_250722_275x184_02.jpg"
+            },
+            {
+                "id":3,
+                "name":"Fresh Vegetables",
+                "image":"https://www.bigbasket.com/media/customPage/b01eee88-e6bc-410e-993c-dedd012cf04b/00100e4e-7dc9-4ad0-888a-b630f0e6597b/c7186cf2-b290-48be-8e03-77d429cc6568/hp_fresh-veggs-fnvStorefront_m_250722_275x184_03.jpg"
+            },
+            {
+                "id":4,
+                "name":"Cuts & Sprouts",
+                "image":"https://www.bigbasket.com/media/customPage/b01eee88-e6bc-410e-993c-dedd012cf04b/00100e4e-7dc9-4ad0-888a-b630f0e6597b/c7186cf2-b290-48be-8e03-77d429cc6568/hp_cuts-sprouts-fnvStorefront_m_250722_275x184_04.jpg"
+            },
+            {
+                "id":5,
+                "name":"Exotic Fruits & Vegetables",
+                "image":"https://www.bigbasket.com/media/customPage/b01eee88-e6bc-410e-993c-dedd012cf04b/00100e4e-7dc9-4ad0-888a-b630f0e6597b/c7186cf2-b290-48be-8e03-77d429cc6568/hp_exotic-fruits-fnvStorefront_m_250722_275x184_05.jpg"
+            }
+        ],
+        "Your-Daily-Staples":[
+            {
+                "id":1,
+                "name":"Atta & Flour",
+                "image":"https://www.bigbasket.com/media/customPage/b01eee88-e6bc-410e-993c-dedd012cf04b/00100e4e-7dc9-4ad0-888a-b630f0e6597b/6c22d883-a99d-4d4d-a859-9037df1fc311/hp_atta-flour-staplesStorefront_m_480_250722_01.jpg"
+            },
+            {
+                "id":2,
+                "name":"Rice & Rice Products",
+                "image":"https://www.bigbasket.com/media/customPage/b01eee88-e6bc-410e-993c-dedd012cf04b/00100e4e-7dc9-4ad0-888a-b630f0e6597b/6c22d883-a99d-4d4d-a859-9037df1fc311/hp_rice-staplesStorefront_m_480_250722_02.jpg"
+            },
+            {
+                "id":3,
+                "name":"Dals & Pulses",
+                "image":"https://www.bigbasket.com/media/customPage/b01eee88-e6bc-410e-993c-dedd012cf04b/00100e4e-7dc9-4ad0-888a-b630f0e6597b/6c22d883-a99d-4d4d-a859-9037df1fc311/hp_dals-pulses-staplesStorefront_m_480_250722_03.jpg"
+            },
+            {
+                "id":4,
+                "name":"Cooking Oils & Ghee",
+                "image":"https://www.bigbasket.com/media/customPage/b01eee88-e6bc-410e-993c-dedd012cf04b/00100e4e-7dc9-4ad0-888a-b630f0e6597b/6c22d883-a99d-4d4d-a859-9037df1fc311/hp_cooking-oils-staplesStorefront_m_480_250722_04.jpg"
+            },
+            {
+                "id":5,
+                "name":"Dry Fruits",
+                "image":"https://www.bigbasket.com/media/customPage/b01eee88-e6bc-410e-993c-dedd012cf04b/00100e4e-7dc9-4ad0-888a-b630f0e6597b/6c22d883-a99d-4d4d-a859-9037df1fc311/hp_dry-fruits-staplesStorefront_m_480_250722_05.jpg"
+            },
+            {
+                "id":6,
+                "name":"Salt,Sugar & Jaggery",
+                "image":"https://www.bigbasket.com/media/customPage/b01eee88-e6bc-410e-993c-dedd012cf04b/00100e4e-7dc9-4ad0-888a-b630f0e6597b/6c22d883-a99d-4d4d-a859-9037df1fc311/hp_salt-staplesStorefront_m_480_250722_06.jpg"
+            }
+        ],
+        "Beverages":[
+            {
+                "id":1,
+                "name":"Soft Drinks",
+                "image":"https://www.bigbasket.com/media/customPage/b01eee88-e6bc-410e-993c-dedd012cf04b/00100e4e-7dc9-4ad0-888a-b630f0e6597b/88a607fd-629b-46a6-b7f9-e269b01b5067/hp_soft-drinks-beveragesStorefront_m_250722_560x378_01.jpg"
+            },
+            {
+                "id":2,
+                "name":"Juices",
+                "image":"https://www.bigbasket.com/media/customPage/b01eee88-e6bc-410e-993c-dedd012cf04b/00100e4e-7dc9-4ad0-888a-b630f0e6597b/88a607fd-629b-46a6-b7f9-e269b01b5067/hp_juices-beveragesStorefront_m_250722_02.jpg"
+            },
+            {
+                "id":3,
+                "name":"Health Drinks",
+                "image":"https://www.bigbasket.com/media/customPage/b01eee88-e6bc-410e-993c-dedd012cf04b/00100e4e-7dc9-4ad0-888a-b630f0e6597b/88a607fd-629b-46a6-b7f9-e269b01b5067/hp_health-drink-beveragesStorefront_m_250722_03.jpg"
+            },
+            {
+                "id":4,
+                "name":"Energy Drinks",
+                "image":"https://www.bigbasket.com/media/customPage/b01eee88-e6bc-410e-993c-dedd012cf04b/00100e4e-7dc9-4ad0-888a-b630f0e6597b/88a607fd-629b-46a6-b7f9-e269b01b5067/hp_energy-driks-beveragesStorefront_m_250722_04.jpg"
+            },
+            {
+                "id":5,
+                "name":"Coffee & Tea",
+                "image":"https://www.bigbasket.com/media/customPage/b01eee88-e6bc-410e-993c-dedd012cf04b/00100e4e-7dc9-4ad0-888a-b630f0e6597b/88a607fd-629b-46a6-b7f9-e269b01b5067/hp_coffee-beveragesStorefront_m_250722_05.jpg"
+            }
+        ],
+        "Snacks-Store":[
+            {
+                "id":1,
+                "name":"Namkeens,Chips & Nachos",
+                "image":"https://www.bigbasket.com/media/customPage/b01eee88-e6bc-410e-993c-dedd012cf04b/00100e4e-7dc9-4ad0-888a-b630f0e6597b/61d28e45-e4f6-46aa-ae81-1fb625a56a1f/hp_namkeens-snacksStorefront_m_480_250722_01.jpg"
+            },
+            {
+                "id":2,
+                "name":"Monsoon Snacks",
+                "image":"https://www.bigbasket.com/media/customPage/b01eee88-e6bc-410e-993c-dedd012cf04b/00100e4e-7dc9-4ad0-888a-b630f0e6597b/61d28e45-e4f6-46aa-ae81-1fb625a56a1f/hp_monsoon-snacks-snacksStorefront_m_480_250722_02.jpg"
+            },
+            {
+                "id":3,
+                "name":"Soups,Noodles & Pasta",
+                "image":"https://www.bigbasket.com/media/customPage/b01eee88-e6bc-410e-993c-dedd012cf04b/00100e4e-7dc9-4ad0-888a-b630f0e6597b/61d28e45-e4f6-46aa-ae81-1fb625a56a1f/hp_soups-noodles-snacksStorefront_m_480_250722_03.jpg"
+            },
+            {
+                "id":4,
+                "name":"Biscuits & Cookies",
+                "image":"https://www.bigbasket.com/media/customPage/b01eee88-e6bc-410e-993c-dedd012cf04b/00100e4e-7dc9-4ad0-888a-b630f0e6597b/61d28e45-e4f6-46aa-ae81-1fb625a56a1f/hp_biscuits-cookies-snacksStorefront_m_480_250722_04.jpg"
+            }
+        ],
+        "Cleaning&Household":[
+            {
+                "id":1,
+                "name":"Cleaners & Disinfectants",
+                "image":"https://www.bigbasket.com/media/customPage/b01eee88-e6bc-410e-993c-dedd012cf04b/00100e4e-7dc9-4ad0-888a-b630f0e6597b/63199602-675c-43d9-af03-b12c76993cea/hp_cleaners-disinfectcleaningStorefront_m_480_250722_01.jpg"
+            },
+            {
+                "id":2,
+                "name":"Detergents & Fabric care",
+                "image":"https://www.bigbasket.com/media/customPage/b01eee88-e6bc-410e-993c-dedd012cf04b/00100e4e-7dc9-4ad0-888a-b630f0e6597b/63199602-675c-43d9-af03-b12c76993cea/hp_setergents-fab-cleaningStorefront_m_480_250722_02.jpg"
+            },
+            {
+                "id":3,
+                "name":"Kitchen wipes & Utensil scrubs",
+                "image":"https://www.bigbasket.com/media/customPage/b01eee88-e6bc-410e-993c-dedd012cf04b/00100e4e-7dc9-4ad0-888a-b630f0e6597b/63199602-675c-43d9-af03-b12c76993cea/hp_kitchen-wipe-cleaningStorefront_m_480_250722_03.jpg"
+            },
+            {
+                "id":4,
+                "name":"Fresheners & Repellents",
+                "image":"https://www.bigbasket.com/media/customPage/b01eee88-e6bc-410e-993c-dedd012cf04b/00100e4e-7dc9-4ad0-888a-b630f0e6597b/63199602-675c-43d9-af03-b12c76993cea/hp_fresheners-repellcleaningStorefront_m_480_250722_04.jpg"
+            }
+        ],
+        "Beauty&Hygiene":[
+            {
+                "id":1,
+                "name":"Everyday Makeup",
+                "image":"https://www.bigbasket.com/media/customPage/b01eee88-e6bc-410e-993c-dedd012cf04b/00100e4e-7dc9-4ad0-888a-b630f0e6597b/2b0eb108-e08d-4932-a2de-d6248c13500b/hp_everyday-make-beautyStorefront_m_250722_560x378_01.jpg"
+            },
+            {
+                "id":2,
+                "name":"30% off",
+                "image":"https://www.bigbasket.com/media/customPage/b01eee88-e6bc-410e-993c-dedd012cf04b/00100e4e-7dc9-4ad0-888a-b630f0e6597b/2b0eb108-e08d-4932-a2de-d6248c13500b/hp_min-30-beautyStorefront_m_250722_275x184_02.jpg"
+            },
+            {
+                "id":3,
+                "name":"under 199",
+                "image":"https://www.bigbasket.com/media/customPage/b01eee88-e6bc-410e-993c-dedd012cf04b/00100e4e-7dc9-4ad0-888a-b630f0e6597b/2b0eb108-e08d-4932-a2de-d6248c13500b/hp_under-199beautyStorefront_m_250722_275x184_03.jpg"
+            },
+            {
+                "id":4,
+                "name":"Scent-Sational Deos",
+                "image":"https://www.bigbasket.com/media/customPage/b01eee88-e6bc-410e-993c-dedd012cf04b/00100e4e-7dc9-4ad0-888a-b630f0e6597b/2b0eb108-e08d-4932-a2de-d6248c13500b/hp_scent-satimal-beautyStorefront_m_250722_275x184_04.jpg"
+            },
+            {
+                "id":5,
+                "name":"Shaving Saviours",
+                "image":"https://www.bigbasket.com/media/customPage/b01eee88-e6bc-410e-993c-dedd012cf04b/00100e4e-7dc9-4ad0-888a-b630f0e6597b/2b0eb108-e08d-4932-a2de-d6248c13500b/hp_shaveog-saviours-beautyStorefront_m_250722_275x184_05.jpg"
+            }
+        ],
+        "Home&Kitchen":[
+            {
+                "id":1,
+                "name":"under 99",
+                "image":"https://www.bigbasket.com/media/customPage/b01eee88-e6bc-410e-993c-dedd012cf04b/00100e4e-7dc9-4ad0-888a-b630f0e6597b/6b904dd4-7336-4a5b-9b53-b470caca6f66/hp_under-99-GMStorefront(Till10th)_m_250722_01.jpg"
+            },
+            {
+                "id":2,
+                "name":"100-199",
+                "image":"https://www.bigbasket.com/media/customPage/b01eee88-e6bc-410e-993c-dedd012cf04b/00100e4e-7dc9-4ad0-888a-b630f0e6597b/6b904dd4-7336-4a5b-9b53-b470caca6f66/hp_100-199-GMStorefront(Till10th)_m_250722_02.jpg"
+            },
+            {
+                "id":3,
+                "name":"Storage Containers",
+                "image":"https://www.bigbasket.com/media/customPage/b01eee88-e6bc-410e-993c-dedd012cf04b/00100e4e-7dc9-4ad0-888a-b630f0e6597b/6b904dd4-7336-4a5b-9b53-b470caca6f66/hp_storage-containers-GMStorefront(Till10th)_m_250722_03.jpg"
+            },
+            {
+                "id":4,
+                "name":"Pressure Cookers",
+                "image":"https://www.bigbasket.com/media/customPage/b01eee88-e6bc-410e-993c-dedd012cf04b/00100e4e-7dc9-4ad0-888a-b630f0e6597b/6b904dd4-7336-4a5b-9b53-b470caca6f66/hp_pressure-cooker-GMStorefront(Till10th)_m_250722_04.jpg"
+            },
+            {
+                "id":5,
+                "name":"Stationery Store",
+                "image":"https://www.bigbasket.com/media/customPage/b01eee88-e6bc-410e-993c-dedd012cf04b/00100e4e-7dc9-4ad0-888a-b630f0e6597b/6b904dd4-7336-4a5b-9b53-b470caca6f66/hp_ststionery-store-GMStorefront(Till10th)_m_250722_05.jpg"
+            },
+            {
+                "id":6,
+                "name":"Gardening",
+                "image":"https://www.bigbasket.com/media/customPage/b01eee88-e6bc-410e-993c-dedd012cf04b/00100e4e-7dc9-4ad0-888a-b630f0e6597b/6b904dd4-7336-4a5b-9b53-b470caca6f66/hp_gardening-GMStorefront(Till10th)_m_250722_06.jpg"
+            }
+        ],
+        "Brand-Store":[
+            {
+                "id":1,
+                "name":"Amul",
+                "image":"https://www.bigbasket.com/media/customPage/b01eee88-e6bc-410e-993c-dedd012cf04b/00100e4e-7dc9-4ad0-888a-b630f0e6597b/aa778521-219e-4fb9-87fa-93fd3272908f/hp_amul-brandStorefront_m_480_250722_01.jpg"
+            },
+            {
+                "id":2,
+                "name":"Dettol",
+                "image":"https://www.bigbasket.com/media/customPage/b01eee88-e6bc-410e-993c-dedd012cf04b/00100e4e-7dc9-4ad0-888a-b630f0e6597b/aa778521-219e-4fb9-87fa-93fd3272908f/hp_dettol-brandStorefront_m_480_250722_02.jpg"
+            },
+            {
+                "id":3,
+                "name":"Coca Cola",
+                "image":"https://www.bigbasket.com/media/customPage/b01eee88-e6bc-410e-993c-dedd012cf04b/00100e4e-7dc9-4ad0-888a-b630f0e6597b/aa778521-219e-4fb9-87fa-93fd3272908f/hp_cocolabrandStorefront_m_480_250722_03.jpg"
+            },
+            {
+                "id":4,
+                "name":"Loreal Paris",
+                "image":"https://www.bigbasket.com/media/customPage/b01eee88-e6bc-410e-993c-dedd012cf04b/00100e4e-7dc9-4ad0-888a-b630f0e6597b/aa778521-219e-4fb9-87fa-93fd3272908f/hp_loreal-brandStorefront_m_480_250722_04.jpg"
+            },
+            {
+                "id":5,
+                "name":"India Gate",
+                "image":"https://www.bigbasket.com/media/customPage/b01eee88-e6bc-410e-993c-dedd012cf04b/00100e4e-7dc9-4ad0-888a-b630f0e6597b/aa778521-219e-4fb9-87fa-93fd3272908f/hp_indaia-gate-brandStorefront_m_480_250722_05.jpg"
+            },
+            {
+                "id":6,
+                "name":"Durex",
+                "image":"https://www.bigbasket.com/media/customPage/b01eee88-e6bc-410e-993c-dedd012cf04b/00100e4e-7dc9-4ad0-888a-b630f0e6597b/aa778521-219e-4fb9-87fa-93fd3272908f/hp_durex-brandStorefront_m_480_250722_06.jpg"
+            }
+        ],
+        "Best-Sellers":[
+            {
+                "id":1,
+                "name":"Capsicum - Green (Loose)",
+                "category":"Fresho",
+                "options":{
+                    "250 g - Rs 18.50":{
+                        "image":"https://www.bigbasket.com/media/uploads/p/s/10000068_22-fresho-capsicum-green.jpg",
+                        "price":25.12,
+                        "dis-price":18.50,
+                        "discount":26
+                    },
+                    "500 g - Rs 37.00":{
+                        "image":"https://www.bigbasket.com/media/uploads/p/s/10000069_20-fresho-capsicum-green.jpg",
+                        "price":50.24,
+                        "dis-price":37,
+                        "discount":26
+                    },
+                    "1 kg - Rs 73.50":{
+                        "image":"https://www.bigbasket.com/media/uploads/p/s/10000067_23-fresho-capsicum-green.jpg",
+                        "price":100.48,
+                        "dis-price":73.50,
+                        "discount":27
+                    }
+                }
+            },
+            {
+                "id":2,
+                "name":"Carrot - Orange (Loose)",
+                "category":"Fresho",
+                "options":{
+                    "250 g - Rs 19.50":{
+                        "image":"https://www.bigbasket.com/media/uploads/p/s/10000071_14-fresho-carrot-orange.jpg",
+                        "price":27.21,
+                        "dis-price":19.50,
+                        "discount":28
+                    },
+                    "500 g - Rs 39.00":{
+                        "image":"https://www.bigbasket.com/media/uploads/p/s/10000072_16-fresho-carrot-orange.jpg",
+                        "price":54.43,
+                        "dis-price":39,
+                        "discount":28
+                    },
+                    "1 kg - Rs 78.00":{
+                        "image":"https://www.bigbasket.com/media/uploads/p/s/10000070_15-fresho-carrot-orange.jpg",
+                        "price":108.85,
+                        "dis-price":78,
+                        "discount":28
+                    }
+                }
+            },
+            {
+                "id":3,
+                "name":"Cauliflower",
+                "category":"Fresho",
+                "options":{
+                    "1 pc (approx. 400 to 600 g)":{
+                        "image":"https://www.bigbasket.com/media/uploads/p/s/10000074_19-fresho-cauliflower.jpg",
+                        "price":25.63,
+                        "dis-price":17.50,
+                        "discount":32
+                    }
+                }
+            },
+            {
+                "id":4,
+                "name":"Coriander Leaves",
+                "category":"Fresho",
+                "options":{
+                    "100 g - Rs 11.50":{
+                        "image":"https://www.bigbasket.com/media/uploads/p/s/10000097_19-fresho-coriander-leaves.jpg",
+                        "price":25.66,
+                        "dis-price":11.50,
+                        "discount":55
+                    },
+                    "250 g - Rs 28.50":{
+                        "image":"https://www.bigbasket.com/media/uploads/p/s/10000098_9-fresho-coriander-leaves.jpg",
+                        "price":64.14,
+                        "dis-price":28.50,
+                        "discount":56
+                    },
+                    "1 kg Rs 112.50":{
+                        "image":"https://www.bigbasket.com/media/uploads/p/s/10000326_14-fresho-coriander-leaves.jpg",
+                        "price":256.57,
+                        "dis-price":112.50,
+                        "discount":56
+                    }
+                }
+            },
+            {
+                "id":5,
+                "name":"Cucumber (Loose)",
+                "category":"Fresho",
+                "options":{
+                    "500 g - Rs 13.87":{
+                        "image":"https://www.bigbasket.com/media/uploads/p/s/10000103_16-fresho-cucumber.jpg",
+                        "price":17.34,
+                        "dis-price":13.87,
+                        "discount":20
+                    },"1 kg - Rs 27.75":{
+                        "image":"https://www.bigbasket.com/media/uploads/p/s/10000102_17-fresho-cucumber.jpg",
+                        "price":34.60,
+                        "dis-price":27.75,
+                        "discount":20
+                    }
+                } 
+            },
+            {
+                "id":6,
+                "name":"Ladies Finger (Loose)",
+                "category":"Fresho",
+                "options":{
+                    "250 g - Rs 5.74":{
+                        "image":"https://www.bigbasket.com/media/uploads/p/s/10000143_14-fresho-ladies-finger.jpg",
+                        "price":7.18,
+                        "dis-price":5.74,
+                        "discount":20
+                    },
+                    "500 g - Rs 11.48":{
+                        "image":"https://www.bigbasket.com/media/uploads/p/s/10000144_13-fresho-ladies-finger.jpg",
+                        "price":14.35,
+                        "dis-price":11.48,
+                        "discount":20
+                    },
+                    "1 kg - Rs 22.97":{
+                        "image":"https://www.bigbasket.com/media/uploads/p/s/10000142_16-fresho-ladies-finger.jpg",
+                        "price":28.71,
+                        "dis-price":22.97,
+                        "discount":20
+                    }
+                }
+            },
+            {
+                "id":7,
+                "name":"Onion (Loose)",
+                "category":"Fresho",
+                "options":{
+                    "1 kg - Rs 28.00":{
+                        "image":"https://www.bigbasket.com/media/uploads/p/s/10000148_30-fresho-onion.jpg",
+                        "price":36.57,
+                        "dis-price":28,
+                        "discount":23
+                    },
+                    "2 kg - Rs 55.50":{
+                        "image":"https://www.bigbasket.com/media/uploads/p/s/40075537_5-fresho-onion.jpg",
+                        "price":73.14,
+                        "dis-price":55.50,
+                        "discount":24
+                    },
+                    "2 kg Multipack - Rs 56.00":{
+                        "image":"https://www.bigbasket.com/media/uploads/p/s/1201413_1-fresho-onion.jpg",
+                        "price":73.14,
+                        "dis-price":56,
+                        "discount":23
+                    },  
+                    "5 kg - Rs 137.00":{
+                        "image":"https://www.bigbasket.com/media/uploads/p/s/10000150_19-fresho-onion.jpg",
+                        "price":182.86,
+                        "dis-price":137,
+                        "discount":25
+                    },
+                    "5 kg Multipack - Rs 140.00":{
+                        "image":"https://www.bigbasket.com/media/uploads/p/s/1201414_1-fresho-onion.jpg",
+                        "price":182.58,
+                        "dis-price":140,
+                        "discount":23
+                    }
+                }
+            },
+            {
+                "id":8,
+                "name":"Tomato - Local (Loose)",
+                "category":"Fresho",
+                "options":{
+                    "500 g - Rs 7.79":{
+                        "image":"https://www.bigbasket.com/media/uploads/p/s/10000204_16-fresho-tomato-local.jpg",
+                        "price":9.74,
+                        "dis-price":7.79,
+                        "discount":20
+                    },
+                    "1 kg - Rs 15.00":{
+                        "image":"https://www.bigbasket.com/media/uploads/p/s/10000203_16-fresho-tomato-local.jpg",
+                        "price":19.48,
+                        "dis-price":15,
+                        "discount":23
+                    }
+                }
+            },
+            {
+                "id":9,
+                "name":"Potato (Loose)",
+                "category":"Fresho",
+                "options":{
+                    "1 kg - Rs 39.00":{
+                        "image":"https://www.bigbasket.com/media/uploads/p/s/40048457_9-fresho-potato-new-crop.jpg",
+                        "price":50.02,
+                        "dis-price":39,
+                        "discount":22
+                    },
+                    "2 kg - Rs 80.02":{
+                        "image":"https://www.bigbasket.com/media/uploads/p/s/40162469_6-fresho-potato-new-crop.jpg",
+                        "price":100.03,
+                        "dis-price":80.02,
+                        "discount":20
+                    }
+                }
+            },
+            {
+                "id":10,
+                "name":"Beans - Haricot (Loose)",
+                "category":"Fresho",
+                "options":{
+                    "250 g - Rs 12.92":{
+                        "image":"https://www.bigbasket.com/media/uploads/p/s/40089743_2-fresho-beans-haricot.jpg",
+                        "price":16.15,
+                        "dis-price":12.92,
+                        "discount":20
+                    },
+                    "500 g - Rs 25.84":{
+                        "image":"https://www.bigbasket.com/media/uploads/p/s/40089742_2-fresho-beans-haricot.jpg",
+                        "price":32.30,
+                        "dis-price":25.84,
+                        "discount":20
+                    },
+                    "1 kg - Rs 51.67":{
+                        "image":"https://www.bigbasket.com/media/uploads/p/s/40089741_2-fresho-beans-haricot.jpg",
+                        "price":64.59,
+                        "dis-price":51.67,
+                        "discount":20
+                    }
+                }
+            },
+            {
+                "id":11,
+                "name":"Atta/Godihittu - Whole Wheat",
+                "category":"Ashirvaad",
+                "rating":4.1,
+                "rating-count":51516,
+                "options":{
+                    "1 kg Pouch - Rs 63.00":{
+                        "image":"https://www.bigbasket.com/media/uploads/p/s/30006887_7-aashirvaad-atta-whole-wheat.jpg",
+                        "price":65,
+                        "dis-price":63,
+                        "discount":3
+                    },
+                    "2 kg Pouch - Rs 118.00":{
+                        "image":"https://www.bigbasket.com/media/uploads/p/s/161826_8-aashirvaad-atta-whole-wheat.jpg",
+                        "price":119,
+                        "dis-price":118,
+                        "discountr":1
+                    },
+                    "5 kg Pouch - Rs 292.00":{
+                        "image":"https://www.bigbasket.com/media/uploads/p/s/126903_9-aashirvaad-atta-whole-wheat.jpg",
+                        "price":301,
+                        "dis-price":292,
+                        "discountr":9
+                    },
+                    "10 kg Pouch - Rs 452.00":{
+                        "image":"https://www.bigbasket.com/media/uploads/p/s/126906_8-aashirvaad-atta-whole-wheat.jpg",
+                        "price":552,
+                        "dis-price":452,
+                        "discount":18
+                    }
+                }
+            },
+            {
+                "id":12,
+                "name":"Pure Ghee/Tuppa",
+                "category":"Nanadini",
+                "rating":4.1,
+                "rating-count":11391,
+                "options":{
+                    "500 ml Pouch - Rs 250.00":{
+                        "image":"https://www.bigbasket.com/media/uploads/p/s/213253_4-nandini-pure-ghee.jpg",
+                        "dis-price":250
+                    },
+                    "2 x 500 ml Multipack - Rs 500.00":{
+                        "image":"https://www.bigbasket.com/media/uploads/p/s/1214143_1-nandini-pure-ghee.jpg",
+                        "dis-price":500
+                    },
+                    "1 L Pouch - Rs 520.00":{
+                        "image":"https://www.bigbasket.com/media/uploads/p/s/213273_7-nandini-pure-ghee.jpg",
+                        "dis-price":520
+                    },
+                    "2 x 1 L Multipack - Rs 1040.00":{
+                        "image":"https://www.bigbasket.com/media/uploads/p/s/1214144_1-nandini-pure-ghee.jpg",
+                        "dis-price":1040
+                    }
+                }
+            },
+            {
+                "id":13,
+                "name":"Sun Lite - Sunflower Refined Oil",
+                "category":"Fortune",
+                "rating":4.1,
+                "rating-count":36215,
+                "options":{
+                    "1 L Pouch - Rs 167.00":{
+                        "image":"https://www.bigbasket.com/media/uploads/p/s/274145_14-fortune-sun-lite-sunflower-refined-oil.jpg",
+                        "price":189,
+                        "dis-price":167,
+                        "discount":12
+                    },
+                    "3x910 g Multipack - Rs 492.00":{
+                        "image":"https://www.bigbasket.com/media/uploads/p/s/1204455_2-fortune-sunflower-refined-oil-sun-lite.jpg",
+                        "price":567,
+                        "dis-price":492,
+                        "discount":13
+                    }
+                }
+            },
+            {
+                "id":14,
+                "name":"Sona Masoori Raw Rice/Akki - Super Premium, 12 + Months Old",
+                "category":"BB Royal",
+                "options":{
+                    "1 kg (12 + Months Old) - Rs 60.00":{
+                        "image":"https://www.bigbasket.com/media/uploads/p/s/40075895_5-bb-royal-sona-masoori-rice-raw-rice-super-premium.jpg",
+                        "price":75,
+                        "dis-price":60,
+                        "discount":20
+                    },
+                    "5 Kg (12 + Months Old) - Rs 295.00":{
+                        "image":"https://www.bigbasket.com/media/uploads/p/s/40075896_5-bb-royal-sona-masoori-rice-raw-rice-super-premium.jpg",
+                        "price":375,
+                        "dis-price":295,
+                        "discount":21
+                    },
+                    "10 kg (12 + Months Old) - Rs 580.00":{
+                        "image":"https://www.bigbasket.com/media/uploads/p/s/40075897_12-bb-royal-sona-masoori-rice-raw-rice-super-premium.jpg",
+                        "price":750,
+                        "dis-price":580,
+                        "discount":23
+                    },
+                    "25 kg Bag - Rs 1399.00":{
+                        "image":"https://www.bigbasket.com/media/uploads/p/s/20005940_11-bb-royal-sona-masoori-rice-raw-rice-super-premium-12-months-old.jpg",
+                        "price":1875,
+                        "dis-price":1399,
+                        "discount":25
+                    }
+                }
+            },
+            {
+                "id":15,
+                "name":"Sugar/Sakkare",
+                "category":"BB Popular",
+                "rating":4,
+                "rating-count":97332,
+                "options":{
+                    "1 kg - Rs 46.00":{
+                        "image":"https://www.bigbasket.com/media/uploads/p/s/40019396_10-bb-popular-sugar.jpg",
+                        "price":55,
+                        "dis-price":46,
+                        "discount":16
+                    },
+                    "2 kg - Rs 91.00":{
+                        "image":"https://www.bigbasket.com/media/uploads/p/s/40019397_10-bb-popular-sugar.jpg",
+                        "price":110,
+                        "dis-price":91,
+                        "discount":17
+                    },
+                    "5 kg - Rs 225.00":{
+                        "image":"https://www.bigbasket.com/media/uploads/p/s/30005417_8-bb-popular-sugar.jpg",
+                        "price":275,
+                        "dis-price":225,
+                        "discount":18
+                    },
+                    "5x1 Kg Multipack - Rs 230.00":{
+                        "image":"https://www.bigbasket.com/media/uploads/p/s/1213918_1-bb-popular-sugar.jpg",
+                        "price":275,
+                        "dis-price":230,
+                        "discount":16
+                    }
+                }
+            }
+        ]
+    },
+    "user":[
+        {
+            "id":1,
+            "email":"hello@world.com",
+            "myCart":[],
+            "myOrders":[],
+            "address":[]
+        }
+    ]
+      
+      
+}

@@ -72,7 +72,7 @@
         }
     ],
     "offers":{
-        "BankOffers": [
+        "bankOffers": [
           {
             "id": 1,
             "name": "paytm",

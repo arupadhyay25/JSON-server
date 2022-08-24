@@ -72,7 +72,7 @@
         }
     ],
     "offers":{
-        "Bank-Offers": [
+        "BankOffers": [
           {
             "id": 1,
             "name": "paytm",
@@ -94,7 +94,7 @@
             "image": "https://www.bigbasket.com/media/customPage/b01eee88-e6bc-410e-993c-dedd012cf04b/00100e4e-7dc9-4ad0-888a-b630f0e6597b/9b0da17e-0131-4d5b-a7d8-bbabe29e98b0/t1_hp_m_aff_dbs_360_110822.jpg"
           }
         ],
-        "Top-Offers": [
+        "TopOffers": [
           {
             "id": 1,
             "image": "https://www.bigbasket.com/media/customPage/b01eee88-e6bc-410e-993c-dedd012cf04b/00100e4e-7dc9-4ad0-888a-b630f0e6597b/4270bf1c-89f8-4fd4-9ac9-28fb1ba828ee/hp_deal-of-the-week-topoffersStorefront_m_480_250722_01.jpg"
@@ -114,7 +114,7 @@
         ]
       },
       "storeProducts":{
-        "Most-Popular":[
+        "MostPopular":[
             {
                 "id":1,
                 "image":"https://www.bigbasket.com/media/customPage/b01eee88-e6bc-410e-993c-dedd012cf04b/00100e4e-7dc9-4ad0-888a-b630f0e6597b/d9285f0a-e4df-419b-86fc-799f6f371627/hp_kajal-mostpopularStorefront_m_480_250722_01.jpg"
@@ -132,7 +132,7 @@
                 "image":"https://www.bigbasket.com/media/customPage/b01eee88-e6bc-410e-993c-dedd012cf04b/00100e4e-7dc9-4ad0-888a-b630f0e6597b/d9285f0a-e4df-419b-86fc-799f6f371627/hp_rakhi-mostpopularStorefront_m_480_250722_04.jpg"
             }
         ],
-        "Fruits&Vegetables":[
+        "FruitsVegetables":[
             {
                 "id":1,
                 "name":"Organic Fruits & Vegetables",
@@ -159,7 +159,7 @@
                 "image":"https://www.bigbasket.com/media/customPage/b01eee88-e6bc-410e-993c-dedd012cf04b/00100e4e-7dc9-4ad0-888a-b630f0e6597b/c7186cf2-b290-48be-8e03-77d429cc6568/hp_exotic-fruits-fnvStorefront_m_250722_275x184_05.jpg"
             }
         ],
-        "Your-Daily-Staples":[
+        "YourDailyStaples":[
             {
                 "id":1,
                 "name":"Atta & Flour",
@@ -218,7 +218,7 @@
                 "image":"https://www.bigbasket.com/media/customPage/b01eee88-e6bc-410e-993c-dedd012cf04b/00100e4e-7dc9-4ad0-888a-b630f0e6597b/88a607fd-629b-46a6-b7f9-e269b01b5067/hp_coffee-beveragesStorefront_m_250722_05.jpg"
             }
         ],
-        "Snacks-Store":[
+        "SnacksStore":[
             {
                 "id":1,
                 "name":"Namkeens,Chips & Nachos",
@@ -240,7 +240,7 @@
                 "image":"https://www.bigbasket.com/media/customPage/b01eee88-e6bc-410e-993c-dedd012cf04b/00100e4e-7dc9-4ad0-888a-b630f0e6597b/61d28e45-e4f6-46aa-ae81-1fb625a56a1f/hp_biscuits-cookies-snacksStorefront_m_480_250722_04.jpg"
             }
         ],
-        "Cleaning&Household":[
+        "CleaningHousehold":[
             {
                 "id":1,
                 "name":"Cleaners & Disinfectants",
@@ -262,7 +262,7 @@
                 "image":"https://www.bigbasket.com/media/customPage/b01eee88-e6bc-410e-993c-dedd012cf04b/00100e4e-7dc9-4ad0-888a-b630f0e6597b/63199602-675c-43d9-af03-b12c76993cea/hp_fresheners-repellcleaningStorefront_m_480_250722_04.jpg"
             }
         ],
-        "Beauty&Hygiene":[
+        "BeautyHygiene":[
             {
                 "id":1,
                 "name":"Everyday Makeup",
@@ -289,7 +289,7 @@
                 "image":"https://www.bigbasket.com/media/customPage/b01eee88-e6bc-410e-993c-dedd012cf04b/00100e4e-7dc9-4ad0-888a-b630f0e6597b/2b0eb108-e08d-4932-a2de-d6248c13500b/hp_shaveog-saviours-beautyStorefront_m_250722_275x184_05.jpg"
             }
         ],
-        "Home&Kitchen":[
+        "HomeKitchen":[
             {
                 "id":1,
                 "name":"under 99",
@@ -321,7 +321,7 @@
                 "image":"https://www.bigbasket.com/media/customPage/b01eee88-e6bc-410e-993c-dedd012cf04b/00100e4e-7dc9-4ad0-888a-b630f0e6597b/6b904dd4-7336-4a5b-9b53-b470caca6f66/hp_gardening-GMStorefront(Till10th)_m_250722_06.jpg"
             }
         ],
-        "Brand-Store":[
+        "BrandStore":[
             {
                 "id":1,
                 "name":"Amul",
@@ -353,7 +353,7 @@
                 "image":"https://www.bigbasket.com/media/customPage/b01eee88-e6bc-410e-993c-dedd012cf04b/00100e4e-7dc9-4ad0-888a-b630f0e6597b/aa778521-219e-4fb9-87fa-93fd3272908f/hp_durex-brandStorefront_m_480_250722_06.jpg"
             }
         ],
-        "Best-Sellers":[
+        "BestSellers":[
             {
                 "id":1,
                 "name":"Capsicum - Green (Loose)",

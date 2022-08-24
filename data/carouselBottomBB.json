@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "name": "Bakery Cake & Dairy",
+    "image": "https://www.bigbasket.com/media/uploads/banner_images/hp_bcd_m_bcd_250722_400.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Health & Nutrition",
+    "image": "https://www.bigbasket.com/media/uploads/banner_images/hp_m_health_suppliment_250722_400.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Baby Products",
+    "image": "https://www.bigbasket.com/media/uploads/banner_images/hp_m_babycare_250722_400.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Pet Store",
+    "image": "https://www.bigbasket.com/media/uploads/banner_images/hp_m_petstore_250722_400.jpg"
+  }
+]

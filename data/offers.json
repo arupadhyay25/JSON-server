@@ -1,0 +1,42 @@
+{
+  "Bank-Offers": [
+    {
+      "id": 1,
+      "name": "paytm",
+      "image": "https://www.bigbasket.com/media/customPage/b01eee88-e6bc-410e-993c-dedd012cf04b/00100e4e-7dc9-4ad0-888a-b630f0e6597b/9b0da17e-0131-4d5b-a7d8-bbabe29e98b0/t1_hp_aff_m_paytm_360_11082022.jpg"
+    },
+    {
+      "id": 2,
+      "name": "RBL Bank",
+      "image": "https://www.bigbasket.com/media/customPage/b01eee88-e6bc-410e-993c-dedd012cf04b/00100e4e-7dc9-4ad0-888a-b630f0e6597b/9b0da17e-0131-4d5b-a7d8-bbabe29e98b0/t1_hp_aff_m_rbl_360_110822.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Indusland Bank",
+      "image": "https://www.bigbasket.com/media/customPage/b01eee88-e6bc-410e-993c-dedd012cf04b/00100e4e-7dc9-4ad0-888a-b630f0e6597b/9b0da17e-0131-4d5b-a7d8-bbabe29e98b0/t1_hp_aff_m_indus_360_110822.jpg"
+    },
+    {
+      "id": 4,
+      "name": "digibank by DBS",
+      "image": "https://www.bigbasket.com/media/customPage/b01eee88-e6bc-410e-993c-dedd012cf04b/00100e4e-7dc9-4ad0-888a-b630f0e6597b/9b0da17e-0131-4d5b-a7d8-bbabe29e98b0/t1_hp_m_aff_dbs_360_110822.jpg"
+    }
+  ],
+  "Top-Offers": [
+    {
+      "id": 1,
+      "image": "https://www.bigbasket.com/media/customPage/b01eee88-e6bc-410e-993c-dedd012cf04b/00100e4e-7dc9-4ad0-888a-b630f0e6597b/4270bf1c-89f8-4fd4-9ac9-28fb1ba828ee/hp_deal-of-the-week-topoffersStorefront_m_480_250722_01.jpg"
+    },
+    {
+      "id": 2,
+      "image": "https://www.bigbasket.com/media/customPage/b01eee88-e6bc-410e-993c-dedd012cf04b/00100e4e-7dc9-4ad0-888a-b630f0e6597b/4270bf1c-89f8-4fd4-9ac9-28fb1ba828ee/hp_big-pack-topoffersStorefront_m_480_250722_02.jpg"
+    },
+    {
+      "id": 3,
+      "image": "https://www.bigbasket.com/media/customPage/b01eee88-e6bc-410e-993c-dedd012cf04b/00100e4e-7dc9-4ad0-888a-b630f0e6597b/4270bf1c-89f8-4fd4-9ac9-28fb1ba828ee/hp_combos-topoffersStorefront_m_480_250722_03.jpg"
+    },
+    {
+      "id": 4,
+      "image": "https://www.bigbasket.com/media/customPage/b01eee88-e6bc-410e-993c-dedd012cf04b/00100e4e-7dc9-4ad0-888a-b630f0e6597b/4270bf1c-89f8-4fd4-9ac9-28fb1ba828ee/hp_the-30-cor-topoffersStorefront_m_480_250722_04.jpg"
+    }
+  ]
+}

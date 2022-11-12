@@ -6,7 +6,7 @@
   "scripts": {
     "start": "node server.js"
   },
-  "author": "Madhusudan Prajapat",
+  "author": "loyal_horse",
   "license": "ISC",
   "dependencies": {
     "json-server": "^0.17.0"
